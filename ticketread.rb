@@ -1,4 +1,4 @@
-require '/home/ashley/dev-stuff/ruby-stuff/api.rb'
+require '/location/to/your/api.rb'
 slapi = Authapi.new
 
 # display last five closed ticket IDs and Titles
